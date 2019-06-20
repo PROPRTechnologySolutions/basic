@@ -1,18 +1,5 @@
 pannellum.viewer('multnomahFalls', {
     "type": "equirectangular",
-    "autoLoad" : false,
-    "vaov": "140",
-    "setPitch": "-40",
-    "maxPitch": "-5",
-    "autoRotate": "-5",
-
-    "autoRotateInactivityDelay": "1000",
-    "hfov": "70",
-
-    "compass": true,
-    "maxLevel": "9",
-    "minLevel": "0",
-
 
     "panorama": "https://s3.amazonaws.com/proprtechnologysolutions/content/landmarks/desktop/multnomahFallsMultnomahCountyOR97014.jpg"
 });
