@@ -49,7 +49,7 @@ pannellum.viewer('broadStreet', {
     "maxLevel": "9",
     "minLevel": "0",
 
-    "panorama": "https://s3.amazonaws.com/proprtechnologysolutions/content/landmarks/desktop/BroadStreet%26LibertyStreetBloomfieldNJ07003-25m.jpg"
+    "panorama": "https://s3.amazonaws.com/proprtechnologysolutions/content/landmarks/desktop/bloomfield/BroadStreet%26LibertyStreetBloomfieldNJ07003-25m.jpg"
 });
 
 pannellum.viewer('driveway', {
